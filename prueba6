@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<texto>
+<Titulo>XML explicado a los ninos</Titulo>
+<parrafo>El<abreviatura>XML</abreviatura>define como crear lenguajes de marcas.</parrafo>
+<parrafo>Las marcas se anaden a un documento de texto para nadir informacion.</parrafo>
+<http://>www.example.org</htttp://>
+</texto>

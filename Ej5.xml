@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prediction date="0/09/2020">
+    <prob>55%</prob>
+    <state>intervalos nubosos</state>
+    <dir>Suroeste</dir>
+    <speed>10km/h</speed>
+    <maxtemp>21</maxtemp>
+    <mintemp>10</mintemp>
+    <maxtempsense>21</maxtempsense>
+    <mintempsense>10</mintempsense>
+    <hummax>90</hummax>
+    <hummin>50</hummin>
+    <ultravioleta>3</ultravioleta>
+</prediction>

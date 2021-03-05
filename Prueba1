@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<instituto>
+  <alumnos>
+  <alumno>
+              <nExp>1111</nExp>
+              <nombre>Pepe</nombre>
+              <apellido>Garcia</apellido>
+  </alumno>
+        <alumno>
+              <nExp>1112</nExp>
+              <nombre>Juan</nombre>
+              <apellido>Sanchez</apellido>
+  </alumno>
+  <alumno>
+              <nExp>1113</nExp>
+              <nombre>Maria</nombre>
+              <apellido>Ruiz</apellido>
+  </alumno>
+  <alumno>
+              <nExp>1114</nExp>
+              <nombre>Jose Fernandez</nombre>
+              <apellido>Fernandez</apellido>
+  </alumno>
+  </alumnos>
+</instituto>

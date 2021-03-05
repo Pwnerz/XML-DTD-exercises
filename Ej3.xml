@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curso grado="DAM" modulo="LM" horas="4" obligatorio="true" fechain="10/09/2019" fechafin="30/06/2020">
+<person nombre="Ana Fernández Gutiérrez" nif="16965696L" telefono="789654321" email="emailana.fdezgtrrez@hotmail.com" dir="C/  El  Percebe,  13" cp="39302" info="No hay información sobre las faltas de asistencia o sus notas hasta el momento."></person>
+<person nombre="Pedro Álvarez Hernández" nif="98765432H" telefono="656566555" email="emailyhyh@yahoo.com" dir="Avd. El Pez, 5 de Suances" cp="39401" info="Su nota es y no tiene faltas de asistencia."></person>
+</curso>

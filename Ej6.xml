@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="" fecha="">
+    <clientdata>
+        <dni></dni>
+        <name></name>
+        <dir></dir>
+        <cp></cp>
+        <state></state>
+    </clientdata>
+    <product>
+        <cant></cant>
+        <name></name>
+        <price></price>
+    </product>
+    <iva></iva>
+    <total></total>
+    <discount></discount>
+</factura>
